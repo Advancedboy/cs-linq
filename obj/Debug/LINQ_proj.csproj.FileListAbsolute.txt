@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\bin\Debug\LINQ_proj.exe.config
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\bin\Debug\LINQ_proj.exe
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\bin\Debug\LINQ_proj.pdb
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\obj\Debug\LINQ_proj.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\obj\Debug\LINQ_proj.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\obj\Debug\LINQ_proj.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\obj\Debug\LINQ_proj.exe
+E:\#1Programming\2022\patterns\LINQ_proj\LINQ_proj\obj\Debug\LINQ_proj.pdb
