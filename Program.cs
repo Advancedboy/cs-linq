@@ -124,6 +124,8 @@ namespace LINQ_proj
             var firstOrDefault = array.FirstOrDefault(); // если коллекция будет пустая
             var last = array.Last();
             var lastOrDefault = array.LastOrDefault(); // default для int = 0
+            var elementAt = products.ElementAt(5); // получить элемент с индексом 5 
+            var elementAtOrDefault = products.ElementAtOrDefault(5); // получить элемент с индексом 5 
 
             Console.WriteLine("=======");
             Console.WriteLine(min);
